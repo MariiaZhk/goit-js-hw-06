@@ -16,5 +16,3 @@ const getInputValue = () => {
 };
 
 nameInputEl.addEventListener("input", getInputValue);
-
-console.log(nameOutputEl);
